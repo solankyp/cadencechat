@@ -1,0 +1,7 @@
+intents:
+  - greet
+  - goodbye
+
+actions:
+  - utter_greet
+  - utter_goodbye
